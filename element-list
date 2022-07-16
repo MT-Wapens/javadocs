@@ -1,1 +1,15 @@
+com.jazzkuh.mtwapens
 com.jazzkuh.mtwapens.api
+com.jazzkuh.mtwapens.commands
+com.jazzkuh.mtwapens.compatibility
+com.jazzkuh.mtwapens.compatibility.versions
+com.jazzkuh.mtwapens.function
+com.jazzkuh.mtwapens.function.enums
+com.jazzkuh.mtwapens.function.listeners
+com.jazzkuh.mtwapens.function.menu
+com.jazzkuh.mtwapens.function.objects
+com.jazzkuh.mtwapens.messages
+com.jazzkuh.mtwapens.utils
+com.jazzkuh.mtwapens.utils.command
+com.jazzkuh.mtwapens.utils.datawatcher
+com.jazzkuh.mtwapens.utils.menu
